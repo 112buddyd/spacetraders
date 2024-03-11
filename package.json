@@ -11,6 +11,7 @@
     "start-api": "poetry run flask run"
   },
   "dependencies": {
+    "@auth0/auth0-react": "^2.2.4",
     "@cloudscape-design/components": "^3.0.565",
     "@cloudscape-design/global-styles": "^1.0.23",
     "eslint-config-prettier": "^9.1.0",

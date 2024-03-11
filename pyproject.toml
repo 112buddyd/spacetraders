@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "spacetraders"
+name = "api"
 version = "0.1.0"
 description = ""
 authors = ["Buddy D <me@112buddyd.dev>"]
